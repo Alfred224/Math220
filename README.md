@@ -1,1 +1,1 @@
-# Math220
+# Download and open .ipynb file in jupyter
